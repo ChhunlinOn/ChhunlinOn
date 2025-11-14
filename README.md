@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @ChhunlinOn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there! I'm Chhunlin 👋
+
+📫 Get In Touch
+
+- The fastest way is via GitHub Issues on my repositories.
+
+- You can also connect with me on LinkedIn (link in bio).
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I can debug of bug feature code  !
 
 <!---
 ChhunlinOn/ChhunlinOn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
