@@ -9,6 +9,6 @@
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,ruby,rails,postgres,mongodb,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,ruby,rails,postgres,mongodb,vscode,postman,figma,coolify" />
 </p>
 
