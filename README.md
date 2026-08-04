@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=On+Chhunlin)
 ---
-![GitHub Streak](https://streak-stats.demolab.com/?user=ChhunlinOn&theme=tokyonight)
 
 <p>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChhunlinOn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chhunlin's GitHub Stats" height="150" />
